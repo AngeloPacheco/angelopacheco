@@ -1,118 +1,118 @@
-
-
-
-.corpo {
-    margin: 0;
-    padding: 0;
-    background: #d9d9d9 url(../img/bg.gif) center top repeat-x;
-    font-family: "Helvetica Neue",Helvetica, Arial;
-}
-}
-
-.conteudo{
-    background: url(../img/mid_bg.jpg) center top no-repeat;
-    margin-left: auto;
-    margin-right: auto;
-    width: 960px;
-}
-
-.container_12{
-	margin-left: auto;
-    margin-right: auto;
-    width: 960px;
-}
-
-.logo {
-    width: 96px;
-    height: 30px;
-    text-align: center;
-    padding-top: 110px;
-}
-
-.atuacao{
-	text-align: left;
-	font-family: Georgia, helvetica, arial;
-	color: #fff;
-    font-style: italic;
-   
-
-}
-
-.descricao{
-
-	padding-top: 90px;
-	font-family: Georgia, helvetica, arial;
-    font-size: 16px;
-    color: #fff;
-    font-style: italic;
-    margin-bottom: 35px;
-    text-align: center;
-    
-}
-
-.text-center .img-responsive {
-    margin: 0 auto;
-}
-
-.contato {
-    width: 884px;
-    padding-bottom: 30px;
-    margin: 0 auto;
-    box-shadow: 13px 21px 38px -10px;
-}
-
-.infos {
-    min-height: 200px;
-    background: #ebebeb url(../img/main.gif) left top repeat-x;
-    width: 720px;
-    border-left: 1px solid #f7f7f7;
-    margin: 0 auto;
-    border-right: 1px solid #f7f7f7;
-    padding: 20px;
-
-}
-
-.box {
-    border: 1px solid #fff;
-    background: #ededed;
-    -moz-box-shadow: 1px 2px 3px #C6C5C5;
-    -webkit-box-shadow: 1px 2px 3px #C6C5C5;
-    float: left;
-    text-align: left;
-    min-height: 110px;
-    padding: 20px;
-    width: 300px;
-}
-
-.box2 {
-    border: 1px solid #fff;
-    background: #ededed;
-    -moz-box-shadow: 1px 2px 3px #C6C5C5;
-    -webkit-box-shadow: 1px 2px 3px #C6C5C5;
-    float: left;
-    text-align: left;
-    min-height: 110px;
-    padding: 20px;
-    width: 300px;
-    height: 145px;
-}
-
-.mr20 {
-    margin-right: 20px;
-}
-
-.img-contato{
-	height: 41px;
-}
-
-.jumbotron-site{
-    box-shadow: 13px 21px 38px -10px;
-    width: 800px;
-    margin: 0 auto;
-}
-
-.panel-heading-site{
-	font-size: 18px;
-	font-style: italic;
-}
-
+
+
+
+.corpo {
+    margin: 0;
+    padding: 0;
+    background: #d9d9d9 url(../img/bg.gif) center top repeat-x;
+    font-family: "Helvetica Neue",Helvetica, Arial;
+}
+}
+
+.conteudo{
+    background: url(../img/mid_bg.jpg) center top no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+.container_12{
+	margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+.logo {
+    width: 96px;
+    height: 30px;
+    text-align: center;
+    padding-top: 110px;
+}
+
+.atuacao{
+	text-align: left;
+	font-family: Georgia, helvetica, arial;
+	color: #fff;
+    font-style: italic;
+   
+
+}
+
+.descricao{
+
+	padding-top: 90px;
+	font-family: Georgia, helvetica, arial;
+    font-size: 16px;
+    color: #fff;
+    font-style: italic;
+    margin-bottom: 35px;
+    text-align: center;
+    
+}
+
+.text-center .img-responsive {
+    margin: 0 auto;
+}
+
+.contato {
+    width: 884px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    box-shadow: 13px 21px 38px -10px;
+}
+
+.infos {
+    min-height: 200px;
+    background: #ebebeb url(../img/main.gif) left top repeat-x;
+    width: 720px;
+    border-left: 1px solid #f7f7f7;
+    margin: 0 auto;
+    border-right: 1px solid #f7f7f7;
+    padding: 20px;
+
+}
+
+.box {
+    border: 1px solid #fff;
+    background: #ededed;
+    -moz-box-shadow: 1px 2px 3px #C6C5C5;
+    -webkit-box-shadow: 1px 2px 3px #C6C5C5;
+    float: left;
+    text-align: left;
+    min-height: 110px;
+    padding: 20px;
+    width: 300px;
+}
+
+.box2 {
+    border: 1px solid #fff;
+    background: #ededed;
+    -moz-box-shadow: 1px 2px 3px #C6C5C5;
+    -webkit-box-shadow: 1px 2px 3px #C6C5C5;
+    float: left;
+    text-align: left;
+    min-height: 110px;
+    padding: 20px;
+    width: 300px;
+    height: 145px;
+}
+
+.mr20 {
+    margin-right: 20px;
+}
+
+.img-contato{
+	height: 41px;
+}
+
+.jumbotron-site{
+    box-shadow: 13px 21px 38px -10px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.panel-heading-site{
+	font-size: 18px;
+	font-style: italic;
+}
+
